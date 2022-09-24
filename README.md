@@ -1,2 +1,2 @@
 # DjangoTest
-My first websute powered with Django
+My first website powered with Django
